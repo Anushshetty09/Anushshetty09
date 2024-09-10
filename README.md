@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anush P Shetty</h1>
 <h3 align="center">A passionate Robotics engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/5e2bc731-834c-420b-bbb2-3bfc49fd9305"
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0YjUyOWthNGhicTcyd25hM2Nyd3V6cW1jZHBwNDRxOW1ob2VuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp
+"
 >
 
 <h3 align="left">Connect with me:</h3>
