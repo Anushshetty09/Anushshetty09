@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anush P Shetty</h1>
 <h3 align="center">A passionate Robotics engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.qCyw0vY1hVKayQLmpW9gRwHaEK?rs=1&pid=ImgDetMain"
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif"
 >
 
 <h3 align="left">Connect with me:</h3>
